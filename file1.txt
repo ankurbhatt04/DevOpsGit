@@ -1,8 +1,3 @@
 Hello everyone!!
-<<<<<<< HEAD
 I'm pretty good.
 It's a rainy day
-=======
-I'm pretty good
-family12345
->>>>>>> 002ad0c07dce5c69bd9346c3c28b441e7e075f7f
